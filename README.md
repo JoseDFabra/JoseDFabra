@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=199549&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jose+Daniel+Fabra;I'm+Front-End+Developer+and+QA+Engineer)](https://git.io/typing-svg)
 
-
+<h1 align="center">"Hi I'm Jose Daniel Fabra "</h1>
 
 
 
