@@ -15,6 +15,8 @@
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDFabra&layout=compact&theme=dark&hide=python" />
 </div>
 
+<br>
+
 ## Language and Tools
 
 #### Main Stack:
@@ -30,7 +32,7 @@
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=selenium" title="Selenium"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql" title="mysql"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb" title="MondoDB"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
 </div>
 
 
