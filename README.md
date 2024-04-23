@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00951C&center=true&vCenter=true&repeat=false&random=false&width=450&lines=My+name+is+Jose+Daniel+Fabra;I'm+front-end+developer+and+QA+Engineer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=199549&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jose+Daniel+Fabra;I'm+Front-End+Developer+and+QA+Engineer)](https://git.io/typing-svg)
 
 
 
@@ -15,7 +16,6 @@
 </div>
 
 ## Language and Tools
-<hr/>
 
 #### Main Stack:
 
