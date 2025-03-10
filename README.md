@@ -38,6 +38,7 @@
 #### Studying in this moment:
 <div>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular" title="Angular"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter" title="flutter"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nextjs" title="NextJS"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nest" title="NestJS"/>
