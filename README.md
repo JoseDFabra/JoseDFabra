@@ -25,8 +25,11 @@
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular" title="Angular"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter" title="flutter"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react" title="React"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postman" title="Postman"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=selenium" title="Selenium"/>
@@ -38,11 +41,9 @@
 #### Studying in this moment:
 <div>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma" title="Figma"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular" title="Angular"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter" title="flutter"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nextjs" title="NextJS"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nest" title="NestJS"/>
- 
+   <img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=Docker" title="Docker"/>
 </div>
 
 #### Tools:
@@ -52,7 +53,7 @@
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github" title="GitHub"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vite" title="Vite"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+
 </div>
 
 <br>
