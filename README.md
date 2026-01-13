@@ -21,6 +21,7 @@
   <img height="48px" width="48px" alt="Icone Taildwind" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/>
   <img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+  <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react" title="React"/>
   <img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
   <img height="48px" width="48px" alt="Icone Nest" src="https://skillicons.dev/icons?i=nest" title="NestJS"/>
@@ -41,7 +42,6 @@
   <img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma" title="Figma"/>
   <img height="48px" width="48px" alt="Icone Next-JS" src="https://skillicons.dev/icons?i=nextjs" title="NextJS"/>
   <img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring" title="Spring"/>
-  <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react" title="React"/>
 </div>
 
 #### Tools:
