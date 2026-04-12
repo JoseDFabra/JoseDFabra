@@ -22,6 +22,7 @@
   <img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
   <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react" title="React"/>
+  <img height="48px" width="48px" alt="Icone Next-JS" src="https://skillicons.dev/icons?i=nextjs" title="NextJS"/>
   <img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
   <img height="48px" width="48px" alt="Icone Nest" src="https://skillicons.dev/icons?i=nest" title="NestJS"/>
@@ -29,6 +30,7 @@
   <img height="48px" width="48px" alt="Icone Angular" src="https://skillicons.dev/icons?i=angular" title="Angular"/>
   <img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter" title="flutter"/>
   <img height="48px" width="48px" alt="Icone Postman" src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring" title="Spring"/>
   <img height="48px" width="48px" alt="Icone JAva" src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img height="48px" width="48px" alt="Icone Selenium" src="https://skillicons.dev/icons?i=selenium" title="Selenium"/>
   <img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql" title="mysql"/>
@@ -40,8 +42,7 @@
 <div>
   
   <img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma" title="Figma"/>
-  <img height="48px" width="48px" alt="Icone Next-JS" src="https://skillicons.dev/icons?i=nextjs" title="NextJS"/>
-  <img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring" title="Spring"/>
+
 </div>
 
 #### Tools:
