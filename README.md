@@ -26,7 +26,7 @@
 
 ## 🛠️ Languages and Tools
 
-#### Main Stack
+#### Frontend
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/></a>
@@ -37,22 +37,32 @@
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/></a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/></a>
   <a href="https://angular.dev/overview" target="_blank" rel="noopener noreferrer" title="Angular"><img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular"/></a>
+</p>
+
+#### Backend
+
+<p>
   <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noopener noreferrer" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/></a>
   <a href="https://docs.nestjs.com/" target="_blank" rel="noopener noreferrer" title="NestJS"><img src="https://skillicons.dev/icons?i=nest" width="48" alt="NestJS"/></a>
-  <br>
   <a href="https://go.dev/doc/" target="_blank" rel="noopener noreferrer" title="Go"><img src="https://skillicons.dev/icons?i=go" width="48" alt="Go"/></a>
   <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noopener noreferrer" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/></a>
   <a href="https://docs.spring.io/spring-boot/" target="_blank" rel="noopener noreferrer" title="Spring"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring"/></a>
-  <a href="https://dart.dev/guides" target="_blank" rel="noopener noreferrer" title="Dart"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/></a>
-  <a href="https://docs.flutter.dev/" target="_blank" rel="noopener noreferrer" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/></a>
   <a href="https://graphql.org/learn/" target="_blank" rel="noopener noreferrer" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql" width="48" alt="GraphQL"/></a>
   <a href="https://www.prisma.io/docs" target="_blank" rel="noopener noreferrer" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma"/></a>
+</p>
+
+#### Mobile
+
+<p>
+  <a href="https://dart.dev/guides" target="_blank" rel="noopener noreferrer" title="Dart"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/></a>
+  <a href="https://docs.flutter.dev/" target="_blank" rel="noopener noreferrer" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/></a>
   <a href="https://firebase.google.com/docs" target="_blank" rel="noopener noreferrer" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/></a>
   <a href="https://supabase.com/docs" target="_blank" rel="noopener noreferrer" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase"/></a>
-  <a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/></a>
-  <br>
-  <a href="https://learning.postman.com/docs/" target="_blank" rel="noopener noreferrer" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/></a>
-  <a href="https://www.selenium.dev/documentation/" target="_blank" rel="noopener noreferrer" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium"/></a>
+</p>
+
+#### Databases & Messaging
+
+<p>
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/></a>
   <a href="https://www.postgresql.org/docs/" target="_blank" rel="noopener noreferrer" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/></a>
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noopener noreferrer" title="SQL Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server"/></a>
@@ -60,12 +70,31 @@
   <a href="https://redis.io/docs/latest/" target="_blank" rel="noopener noreferrer" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/></a>
   <a href="https://kafka.apache.org/documentation/" target="_blank" rel="noopener noreferrer" title="Apache Kafka"><img src="https://skillicons.dev/icons?i=kafka" width="48" alt="Apache Kafka"/></a>
   <a href="https://www.rabbitmq.com/docs" target="_blank" rel="noopener noreferrer" title="RabbitMQ"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" alt="RabbitMQ"/></a>
+</p>
+
+#### Cloud & DevOps
+
+<p>
   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noopener noreferrer" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/></a>
-  <br>
+  <a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/></a>
   <a href="https://docs.kernel.org/" target="_blank" rel="noopener noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/></a>
   <a href="https://documentation.ubuntu.com/" target="_blank" rel="noopener noreferrer" title="Ubuntu"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" alt="Ubuntu"/></a>
   <a href="https://nginx.org/en/docs/" target="_blank" rel="noopener noreferrer" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" width="48" alt="Nginx"/></a>
   <a href="https://caddyserver.com/docs/" target="_blank" rel="noopener noreferrer" title="Caddy"><img src="https://cdn.simpleicons.org/caddy" width="48" alt="Caddy"/></a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noopener noreferrer" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/></a>
+  <a href="https://developer.hashicorp.com/terraform/docs" target="_blank" rel="noopener noreferrer" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" width="48" alt="Terraform"/></a>
+  <a href="https://www.gnu.org/software/bash/manual/" target="_blank" rel="noopener noreferrer" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash"/></a>
+</p>
+
+#### Testing & Tools
+
+<p>
+  <a href="https://www.selenium.dev/documentation/" target="_blank" rel="noopener noreferrer" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium"/></a>
+  <a href="https://learning.postman.com/docs/" target="_blank" rel="noopener noreferrer" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/></a>
+  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="Visual Studio Code"/></a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
+  <a href="https://docs.github.com/" target="_blank" rel="noopener noreferrer" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
+  <a href="https://vite.dev/guide/" target="_blank" rel="noopener noreferrer" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite"/></a>
 </p>
 
 #### Currently Learning
@@ -85,18 +114,6 @@
   <a href="https://developers.openai.com/codex" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white" alt="Codex"/></a>
 </p>
 
-#### Tools
-
-<p>
-  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="Visual Studio Code"/></a>
-  <a href="https://docs.github.com/" target="_blank" rel="noopener noreferrer" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
-  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
-  <a href="https://vite.dev/guide/" target="_blank" rel="noopener noreferrer" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite"/></a>
-  <a href="https://docs.github.com/en/actions" target="_blank" rel="noopener noreferrer" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/></a>
-  <a href="https://www.gnu.org/software/bash/manual/" target="_blank" rel="noopener noreferrer" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash"/></a>
-  <a href="https://developer.hashicorp.com/terraform/docs" target="_blank" rel="noopener noreferrer" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" width="48" alt="Terraform"/></a>
-</p>
-
 <br>
 
 ## 📊 GitHub Stats
@@ -113,6 +130,7 @@
 <br>
 
 ## 📬 Contact me
+
 <p>
   <a href="https://www.linkedin.com/in/jose-fabra25/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:j.fabra25@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
