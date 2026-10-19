@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=199549&size=32&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jose+Daniel+Fabra;Automation+Specialist+%26+Full-Stack+Developer)](https://git.io/typing-svg)
 
-<h3>"Talk is cheap. Show me the code"</h3>
-<p><em>— Linus Torvalds</em></p>
+<h3>"Si lo puedes imaginar, lo puedes programar"</h3>
+<p><em>— Alejandro Taboada, Programación ATS</em></p>
 
 <a href="https://www.linkedin.com/in/jose-fabra25/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:j.fabra25@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
